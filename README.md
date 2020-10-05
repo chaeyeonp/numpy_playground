@@ -13,4 +13,8 @@
 |Step 4: Draw Conclusion|The mean number of dengue cases(total cases) in a week is different for the cities San Juan and Iquitos.| 
 | commit|https://github.com/chaeyeonp/pandas_playground/blob/master/00.pandas_ANOVA.ipynb| 
 
+### 📚 01.Numpy_Practice.ipynb
+
+Pandas 기초 학습 및 Numpy 데이터 구조 학습
+
 ## 🔗 Class
