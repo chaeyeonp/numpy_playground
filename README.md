@@ -19,7 +19,7 @@
 |Content|pandas(series/dataframe)/dimension(scalar,vector,matrix,tensor)/terms(axis,rank,shape,size)/ndarray(zeros,ones,<br>full,arange,linspace,logspace,random.seed,random.rand,random.normal,random.randint)/order(shuffle,permutation)/reshape| 
 | :-----: | :-: |
 | 설명|Pandas 기초 학습 및 Numpy 데이터 구조 학습| 
-| commit|https://github.com/chaeyeonp/daily_algorithm/commit/fc440d71825c5cd1a73262096bbfae24ba381514| 
+| commit date|10/5| 
 
 
 ### 📚 02.Numpy_Calculation_Practice.ipynb
@@ -27,7 +27,7 @@
 |Content|reshape/newaxis/expand_dims/squeeze/flatten/vectorization<br>/array calculation/dot product/descriptive statistics/broadcasting| 
 | :-----: | :-: |
 | 설명|Numpy 연산 및 브로드캐스팅| 
-| commit|https://github.com/chaeyeonp/daily_algorithm/commit/fc440d71825c5cd1a73262096bbfae24ba381514| 
+| commit date|10/6| 
 
 
 
