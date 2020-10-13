@@ -1,4 +1,16 @@
-# 📝 pandas_playground
+# 📝 numpy_playground
+
+## 🔔 Purpose
+
+  - Link : https://medium.com/@mindfiresolutions.usa/the-effect-of-machine-learning-on-web-application-development-c88a9e5f9553
+  
+  1. Understanding Customer Behaviour
+  
+  2. Deliver Personalized Content and Information
+  
+  3. Speedup Product Discovery
+  
+  4. Eliminate Emerging Security Threats
 
 ## 🔗 File
 
